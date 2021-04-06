@@ -7,12 +7,12 @@ from py_pytest.python_code.calc import Calculator
 
 
 class TestBase:
-    def setup_class(self):
+    def setup(self):
         print("开始计算")
         # 实例化计算器类
         self.calc = Calculator()
 
-    def teardown_class(self):
+    def teardown(self):
         print("结束计算")
 
     @classmethod
