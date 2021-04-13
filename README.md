@@ -8,3 +8,6 @@ py_pytest文件夹：
 
     1、py_pytest/pytest_test:python pytest测试进阶录播作业
     2、py_pytest/pytest_fixture：python pytest测试实战作业
+py_selenium:
+
+    py_selenium:企业微信web端自动化测试实战-作业
